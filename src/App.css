@@ -47,6 +47,10 @@ strong {
   font-weight: bold;
 }
 
+#enter {
+  
+}
+
 button {
   display: flex;
   padding: 0.4rem;

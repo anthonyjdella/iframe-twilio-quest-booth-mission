@@ -17,6 +17,9 @@ function App() {
                     Welcome to <strong>DjangoCon</strong>!
                 </p>
                 <p id="game">Play our game to win Swag!</p>
+                <p id="enter">
+                    Enter through the <strong>left</strong> (not castle)
+                </p>
             </header>
         </div>
     );
