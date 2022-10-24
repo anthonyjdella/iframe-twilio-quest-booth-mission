@@ -1,0 +1,24 @@
+.Halloween {
+    text-align: center;
+}
+
+.Halloween-header {
+    font-family: 'Bradley Hand', sans-serif;
+    background-color: black;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    font-size: calc(10px + 2vmin);
+    color: white;
+}
+
+#try {
+    font-size: 1.5em;
+}
+
+#text {
+    font-size: 2em;
+    font-weight: bold;
+}
